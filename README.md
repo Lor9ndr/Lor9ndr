@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-I'm a backend developer with a passion for 3D game engine development. Currently, I'm working on my own game engine called [RockEngine](https://github.com/Lor9ndr/RockEngine).
+I'm a backend developer with a passion for 3D game engine development. Currently, I'm working on my own game engine called [RockEngine](https://github.com/Lor9ndr/RockEngine.Vulkan).
 
 ## 🛠 Skills
 - **Programming Languages:** C#, Python
@@ -32,7 +32,7 @@ I'm a backend developer with a passion for 3D game engine development. Currently
 
 
 ## 🎮 Projects
-- [RockEngine](https://github.com/Lor9ndr/RockEngine) - A 3D game engine I'm developing.
+- [RockEngine](https://github.com/Lor9ndr/RockEngine.Vulkan) - A 3D game engine I'm developing.
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Lor9ndr/RockEngine/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Lor9ndr/RockEngine.Vulkan/issues).
