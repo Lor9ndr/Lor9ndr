@@ -22,10 +22,6 @@ I'm a backend developer with a passion for 3D game engine development. Currently
 - Backend development
 - Graphics programming
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lor9ndr&show_icons=true&theme=radical)
-
-
 ## Projects
 - [RockEngine](https://github.com/Lor9ndr/RockEngine.Vulkan) - A 3D game engine I'm developing.
 
